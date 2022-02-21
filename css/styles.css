@@ -1,0 +1,13 @@
+body {
+    /*background-image: url("/images/karsten-wurth-7BjhtdogU3A-unsplash.jpg");*/
+    background-color: black;
+    color: black;
+    padding: 100px;
+    
+}
+
+.main-div {
+    border-radius: 10px;
+    background-color: yellow;
+    padding: 50px;
+}
